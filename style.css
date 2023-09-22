@@ -1,0 +1,115 @@
+body{
+  display:contents;
+  
+}
+
+.navbar {
+  float:right;
+  margin:20px
+  
+}
+.nav-item{
+  text-decoration: none;
+  color:black;
+  margin-right:15px
+  
+  
+}
+
+.nav-item:hover {
+  text-decoration: underline;
+  
+}
+
+.main {
+  margin-top:200px;
+  text-align:center;
+    
+}
+
+.input-area{
+  margin-top:2px;
+  
+}
+
+.input-box{
+  width:480px;
+  height:30px;
+  border-radius: 20px;
+  border: 1px solid #dfe1e5;
+  padding-left:40px;
+  padding-right:40px;
+  
+}
+.serch-icon{
+  position: relative;
+  left:35px;
+  color: #9aa0a6;
+  
+}
+.mic-icon{
+  position: relative;
+  right:35px;
+  color: #9aa0a6;
+  
+}
+
+.button-area{
+  padding-top: 18px;
+}
+
+.button-style {
+  height: 30px;
+  background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+  border-radius: 6px;
+  font-family: Apple SD Gothic Neo,arial,sans-serif;
+  padding: 0 25px;
+  margin: 11px 4px;
+  
+  
+}
+
+.button-style:hover{
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+
+.footer{
+  position: absolute;
+  bottom:0px;
+  background-color: #f2f2f2;
+  width:100%;
+  
+}
+
+.frist-line{
+    padding: 5px 10px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+
+.second-line{
+  padding: 5px 10px;
+   font-size: 15px;
+  color: #70757a;
+  
+}
+
+.second-line-second{
+  float:right;
+  
+}
+
+.second-line a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.54);
+  padding-right: 15px;
+}
+
+.second-line a:hover {
+  text-decoration: underline;
+}
